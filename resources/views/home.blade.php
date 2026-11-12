@@ -374,7 +374,7 @@
                 <article class="group overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl">
                     <div class="h-56 overflow-hidden">
                         <img
-                            src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=85"
+                            src="{{ asset('images/potensi/pertanian.jpeg') }}"
                             alt="Ilustrasi area pertanian"
                             loading="lazy"
                             class="h-full w-full object-cover transition duration-500 group-hover:scale-105"
@@ -402,7 +402,7 @@
                 <article class="group overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl">
                     <div class="h-56 overflow-hidden">
                         <img
-                            src="https://images.unsplash.com/photo-1545241047-6083a3684587?auto=format&fit=crop&w=800&q=85"
+                            src="{{ asset('images/potensi/perkebunan.jpg') }}"
                             alt="Ilustrasi perkebunan"
                             loading="lazy"
                             class="h-full w-full object-cover transition duration-500 group-hover:scale-105"
@@ -430,7 +430,7 @@
                 <article class="group overflow-hidden rounded-2xl border border-gray-100 bg-white shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl">
                     <div class="h-56 overflow-hidden">
                         <img
-                            src="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=800&q=85"
+                            src="{{ asset('images/potensi/umkm.jpg') }}"
                             alt="Ilustrasi kegiatan usaha masyarakat"
                             loading="lazy"
                             class="h-full w-full object-cover transition duration-500 group-hover:scale-105"
