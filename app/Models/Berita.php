@@ -1,0 +1,25 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class Berita extends Model
+{
+    protected $fillable = [
+        'judul',
+        'slug',
+        'ringkasan',
+        'isi',
+        'gambar',
+        'status',
+        'published_at',
+    ];
+
+    protected function casts(): array
+    {
+        return [
+            'published_at' => 'datetime',
+        ];
+    }
+}
