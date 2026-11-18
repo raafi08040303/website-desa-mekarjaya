@@ -170,7 +170,7 @@
                 {{-- PENDUDUK --}}
                 <div class="rounded-2xl border border-white/10 bg-white/10 p-6 text-center backdrop-blur-sm transition hover:-translate-y-1 hover:bg-white/15">
                     <div class="mb-4 text-3xl">👥</div>
-                    <p class="text-3xl font-extrabold text-lime-300">8.947</p>
+                    <p class="text-3xl font-extrabold text-lime-300">9.561</p>
                     <h3 class="mt-2 font-bold text-white">Penduduk</h3>
                     <p class="mt-1 text-xs text-green-100/65">Jiwa</p>
                 </div>
@@ -178,7 +178,7 @@
                 {{-- KK --}}
                 <div class="rounded-2xl border border-white/10 bg-white/10 p-6 text-center backdrop-blur-sm transition hover:-translate-y-1 hover:bg-white/15">
                     <div class="mb-4 text-3xl">🏠</div>
-                    <p class="text-3xl font-extrabold text-lime-300">2.986</p>
+                    <p class="text-3xl font-extrabold text-lime-300">3.136</p>
                     <h3 class="mt-2 font-bold text-white">Kepala Keluarga</h3>
                     <p class="mt-1 text-xs text-green-100/65">KK</p>
                 </div>

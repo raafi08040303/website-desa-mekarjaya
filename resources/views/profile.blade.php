@@ -222,7 +222,7 @@
                         Penduduk Laki-laki
                     </p>
                     <p class="mt-2 text-3xl font-extrabold text-green-900">
-                        4.495
+                        4.918
                         <span class="text-base font-medium text-gray-500">jiwa</span>
                     </p>
                 </div>
@@ -232,7 +232,7 @@
                         Penduduk Perempuan
                     </p>
                     <p class="mt-2 text-3xl font-extrabold text-green-900">
-                        4.452
+                        4.634
                         <span class="text-base font-medium text-gray-500">jiwa</span>
                     </p>
                 </div>
