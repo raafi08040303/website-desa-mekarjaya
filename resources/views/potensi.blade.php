@@ -4,7 +4,7 @@
     {{-- HERO --}}
     <section class="relative isolate overflow-hidden bg-green-950 text-white">
         <img
-            src="{{ asset('images/poto_desa.PNG') }}"
+            src="{{ asset('images/poto_desa.png') }}"
             alt="Pemandangan Desa Mekarjaya"
             fetchpriority="high"
             class="absolute inset-0 -z-20 h-full w-full object-cover"

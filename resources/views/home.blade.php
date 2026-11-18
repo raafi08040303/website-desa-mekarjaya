@@ -8,7 +8,7 @@
         {{-- BACKGROUND IMAGE --}}
         <div class="absolute inset-0 -z-10">
             <img
-                src="{{ asset('images/beranda/poto_desa.PNG') }}"
+                src="{{ asset('images/beranda/poto_desa.png') }}"
                 alt="Foto lingkungan Desa Mekarjaya"
                 class="h-full w-full object-cover object-center"
             >
@@ -92,7 +92,7 @@
 
             <div class="relative">
                 <img
-                    src="{{ asset('images/beranda/poto_desa.PNG') }}"
+                    src="{{ asset('images/beranda/poto_desa.png') }}"
                     alt="Foto lingkungan Desa Mekarjaya"
                     loading="lazy"
                     class="h-80 w-full rounded-3xl object-cover shadow-xl md:h-[470px]"
@@ -733,7 +733,7 @@
                                    target="_blank"
                                    rel="noopener noreferrer"
                                    class="text-sm font-semibold text-green-800 transition hover:text-green-950">
-                                    +62 857-2014-3800 ↗
+                                    +62 858-4620-9877 ↗
                                 </a>
                             </div>
                         </div>

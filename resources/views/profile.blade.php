@@ -7,7 +7,7 @@
     <section class="relative overflow-hidden bg-green-950">
         <div class="absolute inset-0">
             <img
-                    src="{{ asset('images/poto_desa.PNG') }}"
+                    src="{{ asset('images/poto_desa.png') }}"
                     alt="Foto lingkungan Desa Mekarjaya"
                     loading="lazy"
                     class="h-80 w-full rounded-3xl object-cover shadow-xl md:h-[470px]"
@@ -51,7 +51,7 @@
 
                 <div class="relative">
                     <img
-                    src="{{ asset('images/poto_desa.PNG') }}"
+                    src="{{ asset('images/poto_desa.png') }}"
                     alt="Foto lingkungan Desa Mekarjaya"
                     loading="lazy"
                     class="h-80 w-full rounded-3xl object-cover shadow-xl md:h-[470px]"
@@ -198,8 +198,8 @@
             {{-- STATISTIK UTAMA --}}
             <div class="mb-6 grid grid-cols-2 gap-4 lg:grid-cols-4">
                 @foreach ([
-                    ['angka' => '8.947', 'label' => 'Jumlah Penduduk', 'ikon' => '👥'],
-                    ['angka' => '2.986', 'label' => 'Jumlah Kepala Keluarga', 'ikon' => '🏠'],
+                    ['angka' => '9.561', 'label' => 'Jumlah Penduduk', 'ikon' => '👥'],
+                    ['angka' => '3.136', 'label' => 'Jumlah Kepala Keluarga', 'ikon' => '🏠'],
                     ['angka' => '4', 'label' => 'Jumlah Dusun', 'ikon' => '🏡'],
                     ['angka' => '53', 'label' => 'Jumlah RT', 'ikon' => '📍'],
                 ] as $statistik)
