@@ -729,7 +729,7 @@
 
                             <div>
                                 <h4 class="mb-1 font-bold text-gray-900">Telepon / WhatsApp</h4>
-                                <a href="https://wa.me/6285720143800"
+                                <a href="https://wa.me/6285846209877"
                                    target="_blank"
                                    rel="noopener noreferrer"
                                    class="text-sm font-semibold text-green-800 transition hover:text-green-950">
@@ -783,7 +783,7 @@
                     </div>
 
                     <div class="mt-9 grid grid-cols-1 gap-3 sm:grid-cols-2">
-                        <a href="https://wa.me/6285720143800"
+                        <a href="https://wa.me/+6285846209877"
                            target="_blank"
                            rel="noopener noreferrer"
                            class="inline-flex items-center justify-center gap-2 rounded-xl bg-green-800 px-5 py-3.5 font-bold text-white transition hover:bg-green-950">
